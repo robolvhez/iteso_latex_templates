@@ -1,1 +1,1 @@
-# Proyectos-acad-micos-ITESO-2018-2023-
+# Proyectos académicos (ITESO 2018-2023)
