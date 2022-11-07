@@ -1,1 +1,1 @@
-# Proyectos académicos (ITESO 2018-2023)
+# Plantillas de LaTeX (ITESO)
